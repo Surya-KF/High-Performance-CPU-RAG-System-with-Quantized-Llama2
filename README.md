@@ -1,5 +1,3 @@
-Sure! I'll help you create a README file for the GitHub repository based on the files shown in the image above. Here's a draft for your README:
-
 ---
 
 # RAG-using-Quantized-LLAMA2
