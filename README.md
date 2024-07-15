@@ -1,8 +1,8 @@
 ---
 
-# RAG-using-Quantized-LLAMA2
+# High-Performance CPU RAG System with Quantized Llama2
 
-The RAG-using-Quantized-LLAMA2 repository provides a framework to build a robust retrieval-augmented generation (RAG) system using quantized versions of the Llama2 language model. This project aims to combine the power of Llama2 with efficient retrieval techniques to answer user queries effectively.
+The High-Performance CPU RAG System with Quantized-LLAMA2 repository provides a framework to build a robust retrieval-augmented generation (RAG) system using quantized versions of the Llama2 language model. This project aims to combine the power of Llama2 with efficient retrieval techniques to answer user queries effectively.
 
 ## Table of Contents
 - [Introduction](#introduction)
