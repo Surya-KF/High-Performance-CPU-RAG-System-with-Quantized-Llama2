@@ -6,6 +6,7 @@ The High-Performance CPU RAG System with Quantized-LLAMA2 repository provides a 
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [User-Interface and Working](#user-interface-and-working)
 - [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -17,7 +18,11 @@ The High-Performance CPU RAG System with Quantized-LLAMA2 repository provides a 
 ## Introduction
 The RAG-using-Quantized-LLAMA2 project aims to create a high-performance retrieval-augmented generation system leveraging the quantized versions of the Llama2 language model. This system is designed to efficiently retrieve relevant information and generate accurate responses to user queries.
 
+## User-Interface and Working
+https://github.com/user-attachments/assets/5fc1e4db-543a-4987-a8e4-1ffe2a8f30e3
+
 ## Prerequisites
+
 Before you start using this project, ensure you have the following prerequisites installed on your system:
 - Python 3.6 or higher
 - Required Python packages (can be installed using pip):
